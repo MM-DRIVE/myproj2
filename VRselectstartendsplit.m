@@ -278,6 +278,6 @@ end
 %     %     end
 % end
 
-%%%% checking edits for git hub
+%%%% checking edits for git hub MM_SCRIPTS
 
 
