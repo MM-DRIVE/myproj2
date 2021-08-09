@@ -3,5 +3,6 @@ function [out] = chk_git()
 %   Detailed explanation goes here
 disp('lets do it')
 disp ('look for changes')
+disp ('look for changes in other branch')
 end
 
